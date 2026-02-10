@@ -1,4 +1,4 @@
-<h1>Aspiring Machine Learning Engineer with a focus on Python and applied ML. Experience in data preprocessing, exploratory data analysis, and basic model building using Scikit-learn. Intern at Elevvo, working on structured ML tasks and project-based learning.</h1>
+<h1>Machine Learning Learner | Python | Elevvo Intern</h1>
 <p>Practicing Machine Learning with Python and real datasets.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
